@@ -6,7 +6,7 @@ int main() {
 	cout << "va funcionar";
 	cout << "que";
 	cout << "sakjbfa";
-
+	cout << "sjmafbnaf";
 
 	cout << "jamutaq ortega";
 
